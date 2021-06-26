@@ -47,7 +47,7 @@ If this repo helps in your work, please cite the following paper:
 ```
 @InProceedings{Yang_2021_CVPR,
     author    = {Yang, Guoxing and Fei, Nanyi and Ding, Mingyu and Liu, Guangzhen and Lu, Zhiwu and Xiang, Tao},
-    title     = {L2M-GAN: Learning To Manipulate Latent Space Semantics for Facial Attribute Editing},
+    title     = {{L2M-GAN}: Learning To Manipulate Latent Space Semantics for Facial Attribute Editing},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     year      = {2021},
     pages     = {2951-2960}
