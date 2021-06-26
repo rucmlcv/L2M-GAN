@@ -50,6 +50,6 @@ If this repo helps in your work, please cite the following paper:
     title     = {{L2M-GAN}: Learning To Manipulate Latent Space Semantics for Facial Attribute Editing},
     booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     year      = {2021},
-    pages     = {2951-2960}
+    pages     = {2951--2960}
 }
 ```
