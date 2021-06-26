@@ -21,14 +21,14 @@ pip install opencv-python==4.1.2.30 ffmpeg-python==0.2.0 scikit-image==0.16.2
 pip install pillow==7.0.0 scipy==1.2.1 tqdm==4.43.0 munch==2.5.0
 ```
 
-## Datasets and pre-trained networks
+## Datasets and Pre-trained Networks
 We provide the link of baidu disk to download datasets used in L2M-GAN and the corresponding pre-trained networks. The [datasets](https://pan.baidu.com/s/1QuSeUwzHPMG2UFIzIbHbtw ) and [network checkpoints](https://pan.baidu.com/s/1iVgVR-ljh3L4NYo9yqlDDw ) should be downloaded and stored in the `data` and `expr/checkpoints` directories, respectively.
 
 The extract code for dataset : ul1o
 
 The extract code for checkpoints : cka0
 
-## Evaluation metrics
+## Evaluation Metrics
 To evaluate L2M-GAN using [Fr&eacute;chet Inception Distance (FID)](https://arxiv.org/abs/1706.08500) , run the following commands:
 
 
