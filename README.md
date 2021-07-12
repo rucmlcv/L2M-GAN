@@ -38,7 +38,7 @@ CUDA_VISIBLE_DEVICES=[gpu_id] python main.py --num_domains 2 --w_hpf 1 --resume_
 
 an example is : 
 ```bash
-CUDA_VISIBLE_DEVICES=0 python main.py --mode eval --num_domains 2 --w_hpf 1 --resume_iter 100000 --train_img_dir data/celeba_hq/train --val_img_dir data/celeba_hq/val --checkpoint_dir /expr/checkpoints --eval_dir expr/eval
+CUDA_VISIBLE_DEVICES=0 python main.py --num_domains 2 --w_hpf 1 --resume_iter 100000 --train_img_dir data/celeba_hq/train --val_img_dir data/celeba_hq/val --checkpoint_dir /expr/checkpoints --eval_dir expr/eval
 ```
 
 ## Citation
